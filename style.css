@@ -1,0 +1,19 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2vh;
+    margin: 5vh;
+}
+img{
+    width: 30vh;
+    border-radius: 30%;
+}
