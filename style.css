@@ -29,6 +29,8 @@ header{
     flex-direction: column;
     padding-top: 5vh;
     background-color: var(--blue);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 h1{
     font-family: var(--font-outfit);
@@ -44,7 +46,8 @@ nav{
     width: 100%;
     gap: 1vw;
     padding: 1vh;
-    border-radius: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 nav>a{
     color: var(--white);
